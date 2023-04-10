@@ -11,6 +11,7 @@ export default function FirstPage() {
                 <li>Drawing and Painting</li>
                 <li>Watching movie or drama with family</li>
             </ul>
+            <p>Hope you learned some things about me ٩(◕‿◕)۶</p>
             <Link href="/">Back to home </Link>
         </div>
     )
